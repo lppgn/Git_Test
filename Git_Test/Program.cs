@@ -10,6 +10,10 @@ namespace Git_Test
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("din mor kommer bli sur över detta");
+            Console.WriteLine("lmao github tittar på mig");
+
+            Console.ReadLine();
         }
     }
 }
